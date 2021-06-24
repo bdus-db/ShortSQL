@@ -1,3 +1,6 @@
+# Deprecation notice
+This repository has been archived and the guide will not be maintained anymore. All updated infomration and guides about ShortSQL are now available in the official Bradypus v4 documentation, available at [https://docs.bdus.cloud/api/shortsql](https://docs.bdus.cloud/api/shortsql)
+
 # ShortSql
 
 ShortSql is an easy to use syntax to compile plain to complez SQL staments that can be safely sent as a query parameter and safely parse and validated on the server.
